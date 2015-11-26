@@ -43,8 +43,29 @@
           } 
         });
 
-        var url_description = self.info.description[0]
-        console.log(url_description)
+        var descUris = self.info.descriptions.map(function(description){
+          return description.resource_uri;
+
+        });
+
+        var url_description = descUris.sort()[descUris.length -1];
+
+        $.ajax({
+          url: url_description,
+          success: function (response) {
+            var html = "<dd>" + response.description + "</dd>";
+            $(".js-pkmn-description").html(html);
+          }
+        });
+/*
+        var arr_description = self.info.descriptions;
+        var length = arr_description[0].name.length - 1;
+        console.log(length);
+        arr_description.sort(function (a,b){
+          return parseInt(b.name[length]) - parseInt(a.name[length]);
+        });
+        console.log(arr_description);
+        */
 
         $(".js-pokemon-modal").modal("show");
       }
