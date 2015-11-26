@@ -33,9 +33,22 @@
         })
         $(".js-pkmn-types").text(types);
 
+        var url_sprite = self.info.sprites[0].resource_uri;
+
+        $.ajax({
+          url: url_sprite,
+          success: function (response) {
+            var html = "<img src='http://pokeapi.co" + response.image + "'>"
+            $(".js-pkmn-img").html(html);
+          } 
+        });
+
+        var url_description = self.info.description[0]
+        console.log(url_description)
+
         $(".js-pokemon-modal").modal("show");
       }
-    })
+    });
   };
 
   PokemonApp.Pokemon.idFromUri = function (pokemonUri) {
