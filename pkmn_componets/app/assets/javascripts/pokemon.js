@@ -27,6 +27,10 @@
         $(".js-pkmn-sp-defense").text(self.info.sp_def);
         $(".js-pkmn-speed").text(self.info.speed);
 
+        console.log(self.info.evolutions);
+
+        $(".js-pkmn-btn-evol").attr("data-evolutions", JSON.stringify(self.info.evolutions));
+
         var types = "";
         self.info.types.forEach( function (type) {
           types = types + " " + type.name;
@@ -38,7 +42,7 @@
         $.ajax({
           url: url_sprite,
           success: function (response) {
-            var html = "<img src='http://pokeapi.co" + response.image + "'>"
+            var html = "<dd><img src='http://pokeapi.co" + response.image + "'></dd>";
             $(".js-pkmn-img").html(html);
           } 
         });
@@ -57,6 +61,9 @@
             $(".js-pkmn-description").html(html);
           }
         });
+
+
+
 /*
         var arr_description = self.info.descriptions;
         var length = arr_description[0].name.length - 1;
@@ -67,7 +74,37 @@
         console.log(arr_description);
         */
 
+
         $(".js-pokemon-modal").modal("show");
+
+
+        /*
+        $(".js-pkmn-evol").on("click", function () {
+          var url_evol = self.info.evolutions.resource_uri;
+          $.ajax({
+            url: url_evol,
+            success: function (response){
+              $(".js-pkmn-name-evol").text(response.name);
+              $(".js-pkmn-number-evol").text(response.pkdx_id);
+              console.log(response.sprites[0]);
+
+              var url_sprite = response.sprites[0].resource_uri;
+
+              $.ajax({
+                url: url_sprite,
+                success: function (response) {
+                  var html = "<dd><img src='http://pokeapi.co" + response.image + "'></dd>";
+                  $(".js-pkmn-img-evol").html(html);
+                } 
+              });
+
+              $(".js-pokemon-modal-evol").modal("show");
+
+            } 
+          });
+        });
+
+        */
       }
     });
   };

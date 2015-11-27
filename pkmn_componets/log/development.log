@@ -6670,3 +6670,2022 @@ Started GET "/api/v1/description/609/" for ::1 at 2015-11-26 16:34:54 +0100
 Processing by PokemonApiController#forward as */*
   Parameters: {"uri"=>"description/609"}
 Completed 200 OK in 393ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 16:49:06 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 1711ms (Views: 274.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/pokemon.self-077906f78706b7cf0a17d233c8da14acb26cca6d509fabfefcb96fc1913dadfb.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 16:49:08 +0100
+
+
+Started GET "/api/pokemon/44" for ::1 at 2015-11-26 16:49:10 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/44"}
+Completed 200 OK in 504ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/45/" for ::1 at 2015-11-26 16:49:10 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/45"}
+Completed 200 OK in 397ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/715/" for ::1 at 2015-11-26 16:49:10 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/715"}
+Completed 200 OK in 393ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 16:49:27 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 1109ms (Views: 100.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/pokemon.self-077906f78706b7cf0a17d233c8da14acb26cca6d509fabfefcb96fc1913dadfb.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 16:49:28 +0100
+
+
+Started GET "/api/pokemon/47" for ::1 at 2015-11-26 16:49:30 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/47"}
+Completed 200 OK in 488ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/48/" for ::1 at 2015-11-26 16:49:31 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/48"}
+Completed 200 OK in 396ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/766/" for ::1 at 2015-11-26 16:49:31 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/766"}
+Completed 200 OK in 430ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 16:50:23 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 2179ms (Views: 95.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 16:50:25 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 16:50:25 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/pokemon.self-077906f78706b7cf0a17d233c8da14acb26cca6d509fabfefcb96fc1913dadfb.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 16:50:26 +0100
+
+
+Started GET "/api/pokemon/49" for ::1 at 2015-11-26 16:50:27 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/49"}
+Completed 200 OK in 538ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/50/" for ::1 at 2015-11-26 16:50:27 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/50"}
+Completed 200 OK in 410ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/797/" for ::1 at 2015-11-26 16:50:28 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/797"}
+Completed 200 OK in 404ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:08:41 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 1607ms (Views: 177.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/pokemon.self-c32fbc06e9126fcf612c198991e11731c148ee67be75e0e6911dc5b0a6a86498.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:08:42 +0100
+
+
+Started GET "/" for ::1 at 2015-11-26 17:10:03 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 1617ms (Views: 185.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/pokemon.self-acf850a50fa55b757bdbfadc93c837a9700d053c9acd96adf46a006eef530aa6.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:10:05 +0100
+
+
+Started GET "/" for ::1 at 2015-11-26 17:10:22 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 1264ms (Views: 182.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/pokemon.self-23926665bfdbb764c7b579b7130af9272a7cd260764dac2922ca4b0fa159ad63.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:10:23 +0100
+
+
+Started GET "/" for ::1 at 2015-11-26 17:10:35 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 1176ms (Views: 182.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/pokemon.self-ef633f40db2e0fb53b8d7800efd3b016a2ad7134a76de93f0133e5dda846e2cd.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:10:37 +0100
+
+
+Started GET "/api/pokemon/19" for ::1 at 2015-11-26 17:10:40 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/19"}
+Completed 200 OK in 515ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/20/" for ::1 at 2015-11-26 17:10:40 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/20"}
+Completed 200 OK in 393ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/301/" for ::1 at 2015-11-26 17:10:41 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/301"}
+Completed 200 OK in 440ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:10:44 +0100
+Processing by PokemonController#index as */*
+  Rendered pokemon/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 1110ms (Views: 107.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:11:34 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 1739ms (Views: 196.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/pokemon.self-2d5d633e9886ffb8d9065c6eb6a3df7e64a54c1ab7ed5d6adaf4578b96e1d5fe.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:11:36 +0100
+
+
+Started GET "/api/pokemon/19" for ::1 at 2015-11-26 17:11:38 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/19"}
+Completed 200 OK in 531ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/20/" for ::1 at 2015-11-26 17:11:39 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/20"}
+Completed 200 OK in 453ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/301/" for ::1 at 2015-11-26 17:11:39 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/301"}
+Completed 200 OK in 394ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:11:41 +0100
+Processing by PokemonController#index as */*
+  Rendered pokemon/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 1169ms (Views: 94.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:12:22 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 1193ms (Views: 193.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/pokemon.self-5c6c1f390664afee6fcad2f5cc699c354cd1f99bd04d709abfea66301796eb68.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:12:23 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:12:24 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:12:24 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:12:24 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:12:24 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:12:24 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:12:24 +0100
+
+
+Started GET "/api/pokemon/19" for ::1 at 2015-11-26 17:12:26 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/19"}
+Completed 200 OK in 512ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/20/" for ::1 at 2015-11-26 17:12:26 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/20"}
+Completed 200 OK in 390ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/301/" for ::1 at 2015-11-26 17:12:27 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/301"}
+Completed 200 OK in 418ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:12:29 +0100
+Processing by PokemonController#index as */*
+  Rendered pokemon/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 1207ms (Views: 103.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:35:11 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 1652ms (Views: 257.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/evolution.self-96420c4e8494de04b406c6cb6493cdc254caa48971f8fe5c8f5fa15db0661328.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/pokemon.self-5325307b6c8f941b76d96fdc56fc891cdf28af7ec8d7e5c052b4287e6b129f06.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:35:13 +0100
+
+
+Started GET "/" for ::1 at 2015-11-26 17:35:32 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 1236ms (Views: 185.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/evolution.self-1f7d8c9edae3d7ee22749e78eacad7b8f41a12d0130ecaad9ede13b86dc8b971.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/pokemon.self-5325307b6c8f941b76d96fdc56fc891cdf28af7ec8d7e5c052b4287e6b129f06.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:35:33 +0100
+
+
+Started GET "/api/pokemon/19" for ::1 at 2015-11-26 17:35:35 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/19"}
+Completed 200 OK in 499ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/20/" for ::1 at 2015-11-26 17:35:36 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/20"}
+Completed 200 OK in 396ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/301/" for ::1 at 2015-11-26 17:35:36 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/301"}
+Completed 200 OK in 416ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:37:12 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 1663ms (Views: 184.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/pokemon.self-e3177cd5ccca6d48df3f6c9a15188aea07da5e461b5e6aa744a10a3bfc562d15.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/evolution.self-1f7d8c9edae3d7ee22749e78eacad7b8f41a12d0130ecaad9ede13b86dc8b971.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:37:14 +0100
+
+
+Started GET "/api/pokemon/19" for ::1 at 2015-11-26 17:37:16 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/19"}
+Completed 200 OK in 532ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/20/" for ::1 at 2015-11-26 17:37:17 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/20"}
+Completed 200 OK in 428ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/301/" for ::1 at 2015-11-26 17:37:17 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/301"}
+Completed 200 OK in 428ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:37:33 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 1176ms (Views: 194.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/pokemon.self-9eae501ceaa190b809541aea12113a7529e9bced8ae98a4b9dffdb10eb3185f2.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/evolution.self-1f7d8c9edae3d7ee22749e78eacad7b8f41a12d0130ecaad9ede13b86dc8b971.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:37:34 +0100
+
+
+Started GET "/api/pokemon/19" for ::1 at 2015-11-26 17:37:36 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/19"}
+Completed 200 OK in 516ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/20/" for ::1 at 2015-11-26 17:37:36 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/20"}
+Completed 200 OK in 384ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/301/" for ::1 at 2015-11-26 17:37:37 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/301"}
+Completed 200 OK in 429ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/pokemon/34" for ::1 at 2015-11-26 17:37:57 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/34"}
+Completed 200 OK in 550ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/35/" for ::1 at 2015-11-26 17:37:57 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/35"}
+Completed 200 OK in 399ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/542/" for ::1 at 2015-11-26 17:37:58 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/542"}
+Completed 200 OK in 420ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/pokemon/40" for ::1 at 2015-11-26 17:38:04 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/40"}
+Completed 200 OK in 519ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/41/" for ::1 at 2015-11-26 17:38:04 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/41"}
+Completed 200 OK in 396ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/643/" for ::1 at 2015-11-26 17:38:05 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/643"}
+Completed 200 OK in 419ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/pokemon/60" for ::1 at 2015-11-26 17:38:53 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/60"}
+Completed 200 OK in 934ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/61/" for ::1 at 2015-11-26 17:38:54 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/61"}
+Completed 200 OK in 419ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/971/" for ::1 at 2015-11-26 17:38:54 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/971"}
+Completed 200 OK in 396ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/pokemon/61" for ::1 at 2015-11-26 17:39:16 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/61"}
+Completed 200 OK in 511ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/62/" for ::1 at 2015-11-26 17:39:17 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/62"}
+Completed 200 OK in 397ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/987/" for ::1 at 2015-11-26 17:39:17 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/987"}
+Completed 200 OK in 406ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:56:18 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 1639ms (Views: 201.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/evolution.self-831cb5259c5730ed4265a094d4258b80f23651e71f0afa0cbf1d41e4472a2aac.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/pokemon.self-a8b7a71896067b38cf2a8e73c67caa14daed14b5fb977a2658ac39d8246ffb08.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:56:20 +0100
+
+
+Started GET "/api/pokemon/62" for ::1 at 2015-11-26 17:56:27 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/62"}
+Completed 200 OK in 497ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/63/" for ::1 at 2015-11-26 17:56:28 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/63"}
+Completed 200 OK in 414ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/999/" for ::1 at 2015-11-26 17:56:28 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/999"}
+Completed 200 OK in 395ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 17:59:12 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 2052ms (Views: 184.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/evolution.self-9e55eb94ca5bb3edc6cc1678b0aedc09e36e3df39d453daa17b1852c7bdf5110.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/pokemon.self-a8b7a71896067b38cf2a8e73c67caa14daed14b5fb977a2658ac39d8246ffb08.js?body=1" for ::1 at 2015-11-26 17:59:14 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 17:59:15 +0100
+
+
+Started GET "/api/pokemon/61" for ::1 at 2015-11-26 17:59:16 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/61"}
+Completed 200 OK in 557ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/62/" for ::1 at 2015-11-26 17:59:17 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/62"}
+Completed 200 OK in 404ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/987/" for ::1 at 2015-11-26 17:59:17 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/987"}
+Completed 200 OK in 400ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/pokemon/61" for ::1 at 2015-11-26 17:59:22 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/61"}
+Completed 200 OK in 508ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/62/" for ::1 at 2015-11-26 17:59:23 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/62"}
+Completed 200 OK in 414ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/987/" for ::1 at 2015-11-26 17:59:23 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/987"}
+Completed 200 OK in 439ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 18:00:02 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 1640ms (Views: 202.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 18:00:03 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 18:00:03 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 18:00:03 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 18:00:03 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 18:00:03 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 18:00:03 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 18:00:03 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/evolution.self-776067a1ca0fe03604117f2616ea171f32106e29114f77d7ad9e85ca9488cd7a.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/pokemon.self-872acdffb206ccbb680a21059d9b14bbe54fa42f055447a15e2a0a5767fbf1a1.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 18:00:04 +0100
+
+
+Started GET "/api/pokemon/61" for ::1 at 2015-11-26 18:00:05 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/61"}
+Completed 200 OK in 493ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/62/" for ::1 at 2015-11-26 18:00:06 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/62"}
+Completed 200 OK in 421ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/987/" for ::1 at 2015-11-26 18:00:06 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/987"}
+Completed 200 OK in 399ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 18:04:29 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 1649ms (Views: 194.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/pokemon.self-7c4b9a765a3e2a73b825fb554cef8d7749e81b827efc740bf8385a95a1e89625.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/evolution.self-5f3850bb49163293cc18e5446865efa2b7a2400ce59167ac8ac6809f5fe08a42.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 18:04:30 +0100
+
+
+Started GET "/api/pokemon/61" for ::1 at 2015-11-26 18:04:34 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/61"}
+Completed 200 OK in 660ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 18:04:50 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 2086ms (Views: 195.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/pokemon.self-7be303e65a97d2e39dfb0988de13d8a07df5c5643c0e566fdd0daca6627e4adb.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/evolution.self-5f3850bb49163293cc18e5446865efa2b7a2400ce59167ac8ac6809f5fe08a42.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 18:04:52 +0100
+
+
+Started GET "/api/pokemon/61" for ::1 at 2015-11-26 18:04:53 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/61"}
+Completed 200 OK in 516ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/62/" for ::1 at 2015-11-26 18:04:54 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/62"}
+Completed 200 OK in 398ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/987/" for ::1 at 2015-11-26 18:04:54 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/987"}
+Completed 200 OK in 443ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-11-26 18:05:20 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 1234ms (Views: 198.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 18:05:21 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/pokemon.self-9a1941632278d5c71993b2bac4dd3b0991ce9bd20669a1fd7b27504d521489ef.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/evolution.self-5f3850bb49163293cc18e5446865efa2b7a2400ce59167ac8ac6809f5fe08a42.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 18:05:22 +0100
+
+
+Started GET "/" for ::1 at 2015-11-26 18:05:42 +0100
+Processing by PokemonController#index as HTML
+  Rendered pokemon/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 1636ms (Views: 211.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-77d963462a71b85aa6c39f0110994006fed4301154d937da52eb3884ff813853.css?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-c1a8821f7eb1b195061d7706930814ecc6bd44db4c68f208da5fe14845fa11ea.css?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/pokemon.self-b9c49f0a331bbf021ea0e99502b31adac1f024cf862d0534e32f71b80830b9d9.css?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/pokemon_api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-db278e3a8fa6249c16796b113ebd29e11ef4e2cd021618ed84895d524a4511e0.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-ebce91ec66c71bcee451ea7da9128fd1bf8faa02c6d22ea04c598423431e4c08.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-ab1767545e27c0dbd36971e656ae4927171f673e3d932cdec2cbef39e991952b.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-8bb9309b6c24a4ba6b94026a049d25b13bdc0553b6fe83255c14a715ba624cc4.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-bd0c6724cdc75302fe98dfeff923112b76c1673cf4a0752a7050b7feea15594c.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-d7f9330825307d053f68da11bb9ddc9b070df72deef3d115f2f3d55f66b17457.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-7e3ee4a243bb416b5f0111a0be08f8547c5d72ba71fe4afe4a4a007f5cb4e10e.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-cd672ecad3b549e1dbd89bfd044e5812d6fdade56f42d48e3acee0c3f4614526.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/button.self-ceb562de883e04359bb2c06f07bdf6ecf065cc8a5027e2e58857c5e91b0b68e3.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/evolution.self-f47f940637577c5f2846012bf5d84fbe8aff9fcadb684f651c9df937a1726963.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-a87553101c955a01e2e8c81fad69a16582ddbf58fe95d5eb335dde5567af7647.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-14e04bbe71282aa039322ab93e3a3a886ddede5f59a2f365f7c861f697bbeb21.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/init.self-b0edd33e2071bc56b0e3bae0b194dc16f3f85d28a7089dc603b7a5593f48638f.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-5d09995e01b647168888180d40e271f9a6759d68ae7ac029d7026af58813d376.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/bootstrap.self-5afe7e91ef3675e2be97b8d060a7f3755d6dbc615b76df476df55143da70679f.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/pokemon.self-9a1941632278d5c71993b2bac4dd3b0991ce9bd20669a1fd7b27504d521489ef.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-11-26 18:05:44 +0100
+
+
+Started GET "/api/pokemon/61" for ::1 at 2015-11-26 18:05:47 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"pokemon/61"}
+Completed 200 OK in 694ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/sprite/62/" for ::1 at 2015-11-26 18:05:48 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"sprite/62"}
+Completed 200 OK in 405ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/description/987/" for ::1 at 2015-11-26 18:05:48 +0100
+Processing by PokemonApiController#forward as */*
+  Parameters: {"uri"=>"description/987"}
+Completed 200 OK in 399ms (Views: 0.1ms | ActiveRecord: 0.0ms)
